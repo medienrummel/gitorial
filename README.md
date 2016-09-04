@@ -1,3 +1,3 @@
 # gitorial
 Tutorial für GitHub
-Eine kleine Einführung in GitHub...
+- Eine kleine Einführung in GitHub...!
